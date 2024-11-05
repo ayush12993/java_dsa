@@ -1,11 +1,10 @@
 @echo off
-:: Batch script to push to a branch and merge
-
-:: Get branch names from user input
-set /p source_branch="Enter the source branch name: "
-set /p target_branch="Enter the target branch name to merge into: "
+:: Batch script to push to a branch and merge with master
+:: Get source branch name from user input
+set /p source_branch="Enter your branch name: "
 
 :: Add all changes
+echo Adding all changes...
 git add .
 
 :: Commit changes
@@ -16,23 +15,24 @@ git commit -m "%commit_message%"
 echo Pushing to %source_branch%...
 git push origin %source_branch%
 
-:: Switch to target branch
-echo Switching to %target_branch%...
-git checkout %target_branch%
+:: Switch to master branch
+echo Switching to master...
+git checkout master
 
-:: Pull latest changes from target branch
-echo Pulling latest changes from %target_branch%...
-git pull origin %target_branch%
+:: Pull latest changes from master
+echo Pulling latest changes from master...
+git pull origin master
 
-:: Merge source branch into target branch
-echo Merging %source_branch% into %target_branch%...
+:: Merge source branch into master
+echo Merging %source_branch% into master...
 git merge %source_branch%
 
-:: Push merged changes
-echo Pushing merged changes to %target_branch%...
-git push origin %target_branch%
+:: Push merged changes to master
+echo Pushing merged changes to master...
+git push origin master
 
 :: Switch back to source branch
+echo Switching back to %source_branch%...
 git checkout %source_branch%
 
 echo.
