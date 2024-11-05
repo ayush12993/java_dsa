@@ -1,4 +1,5 @@
 boolean isPalindrome(int n){
+<<<<<<< HEAD
 int rev=0;//initializing reverse with 0
 int temp=n;//initializing temp with n
 while(temp!==0){
@@ -10,3 +11,14 @@ temp=temp/10;//1(76)2(7)3(0)
 return (rev==n);//check if 768 is equal to 867
 }
 
+=======
+int rev=0;
+int temp=n;
+while(temp!==0){
+int ld= temp%10;
+rev = rev*10+ld;
+temp = temp/10;
+}
+return (rev==n);
+}
+>>>>>>> mathematics
