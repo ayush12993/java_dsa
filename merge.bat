@@ -1,7 +1,20 @@
 @echo off
 :: Batch script to push to a branch and merge with master
+
 :: Get source branch name from user input
 set /p source_branch="Enter your branch name: "
+
+:: Check if source branch exists
+git show-ref --verify --quiet "refs/heads/%source_branch%"
+if %ERRORLEVEL% NEQ 0 (
+    :: Branch doesn't exist, create it
+    echo Creating new branch '%source_branch%'...
+    git checkout -b %source_branch%
+) else (
+    :: Switch to existing branch
+    echo Switching to existing branch '%source_branch%'...
+    git checkout %source_branch%
+)
 
 :: Add all changes
 echo Adding all changes...
