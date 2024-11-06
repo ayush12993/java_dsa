@@ -7,3 +7,26 @@ class countTrailingZeroesFactorialNumber{
         return zeroes;//Time complexity theta of logn
         }
 }
+//123
+/**
+ * x=100
+ * 
+ * zeroes=0
+ * 
+ * 100/5
+ * 20  
+ * 20
+ * 
+ * 100/25
+ * 20+4
+ * 24
+ * 
+ * 
+ * 100/125 
+ * 0
+ * 24+0
+ * 
+ * loop will break
+ * 
+ * 
+ */
