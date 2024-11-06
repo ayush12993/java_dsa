@@ -8,3 +8,26 @@ class  countDigits{
         return res;//then we will return the result
         }
 }
+//123
+/**
+ * x=123
+ * 
+ * res=0
+ * 
+ * 123/10
+ * 12  
+ * 1
+ * 
+ * 12/10
+ * 1
+ * 1+1
+ * 
+ * 
+ * 1/10 
+ * 0
+ * 1+1+1
+ * 
+ * loop will break
+ * 
+ * 
+ */
