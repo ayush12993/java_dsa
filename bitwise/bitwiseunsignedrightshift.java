@@ -5,6 +5,5 @@ public class bitwiseunsignedrightshift {
         int x=-2;
         System.out.println(x>>>1);
         System.out.println(x>>>4);
-    }
-    
+    } 
 }
