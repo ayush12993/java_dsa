@@ -1,0 +1,22 @@
+package com.ayushm;
+
+import java.util.HashMap;
+import java.util.Iterator;
+
+public class romantointeger {
+	public static void main(String[] args) {
+		romanToNumber("III");
+	}
+	
+	public static int romanToNumber(String roman) {
+		String[] romanNumbersArray = roman.split("");
+		HashMap<Integer, Character> mapStringHashMap = new HashMap<Integer, Character>();
+		mapStringHashMap.put(1,'I');
+		for(int i=0;i<romanNumbersArray.length;i++) {
+			System.out.println(romanNumbersArray[i]);	
+		}
+		
+		return 0;
+	}
+
+}

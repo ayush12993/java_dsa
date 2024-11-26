@@ -1,0 +1,14 @@
+package com.ayushm;
+
+public class romantointeger {
+	public static void main(String[] args) {
+		romanToNumber("III");
+	}
+	
+	public static int romanToNumber(String roman) {
+		String[] romanNumbersArray = roman.split("");
+		System.out.println(romanNumbersArray);
+		return 0;
+	}
+
+}
