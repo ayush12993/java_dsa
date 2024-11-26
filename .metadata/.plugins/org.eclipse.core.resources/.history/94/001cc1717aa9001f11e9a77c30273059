@@ -1,0 +1,7 @@
+package com.ayushm;
+
+public class twosums {
+public int[] twoSum(int[] nums, int target) {
+        
+    }
+}
