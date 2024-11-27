@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b3ef127-80ff-40a0-89c1-1570c3b9dbec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/merge.bat" afterPath="$PROJECT_DIR$/merge.bat" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -325,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732693663488</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="This program is to buy at low price and sell at high price stocks">
+      <created>1732694936665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732694936665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -366,7 +374,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding buy sell stock program of array concept" />
     <MESSAGE value="checking if string is palindrome or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="checking if string is palindrome or not" />
+    <MESSAGE value="This program is to buy at low price and sell at high price stocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to buy at low price and sell at high price stocks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
