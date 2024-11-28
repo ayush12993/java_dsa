@@ -39,9 +39,12 @@
       <file leaf-file-name="frequency_equalizer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/frequency_equalizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.plusOneProgram">
+  <component name="RunManager" selected="Application.frequency_equalizer">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -228,9 +231,9 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="buySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="frequency_equalizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="buySellStock" />
+      <option name="MAIN_CLASS_NAME" value="frequency_equalizer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -346,18 +349,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.NGL" />
-      <item index="1" class="java.lang.String" itemvalue="Application.buySellStock" />
-      <item index="2" class="java.lang.String" itemvalue="Application.lastWordLength" />
-      <item index="3" class="java.lang.String" itemvalue="Application.longestcommonprefix" />
-      <item index="4" class="java.lang.String" itemvalue="Application.plusOneProgram" />
+      <item index="1" class="java.lang.String" itemvalue="Application.lastWordLength" />
+      <item index="2" class="java.lang.String" itemvalue="Application.longestcommonprefix" />
+      <item index="3" class="java.lang.String" itemvalue="Application.plusOneProgram" />
+      <item index="4" class="java.lang.String" itemvalue="Application.frequency_equalizer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.plusOneProgram" />
-        <item index="1" class="java.lang.String" itemvalue="Application.longestcommonprefix" />
-        <item index="2" class="java.lang.String" itemvalue="Application.lastWordLength" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NGL" />
-        <item index="4" class="java.lang.String" itemvalue="Application.buySellStock" />
+        <item index="0" class="java.lang.String" itemvalue="Application.frequency_equalizer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.plusOneProgram" />
+        <item index="2" class="java.lang.String" itemvalue="Application.longestcommonprefix" />
+        <item index="3" class="java.lang.String" itemvalue="Application.lastWordLength" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NGL" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732797506371</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="This program is to find frequency of string">
+      <created>1732797512274</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732797512274</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -981,9 +991,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/frequency_equalizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
