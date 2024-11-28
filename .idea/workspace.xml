@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b3ef127-80ff-40a0-89c1-1570c3b9dbec" name="Default" comment="This program is to find the length of the last word in the string">
+    <list default="true" id="1b3ef127-80ff-40a0-89c1-1570c3b9dbec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +27,8 @@
       <file leaf-file-name="plusOneProgram.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/plusOneProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="60">
+              <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -408,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732769525936</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="This program is to add the plus one in last of array">
+      <created>1732796878598</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732796878598</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -485,7 +492,8 @@
     <MESSAGE value="This program is to buy at low price and sell at high price stocks" />
     <MESSAGE value="This program is to just practicing stacks in java" />
     <MESSAGE value="This program is to find the length of the last word in the string" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to find the length of the last word in the string" />
+    <MESSAGE value="This program is to add the plus one in last of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to add the plus one in last of array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -945,8 +953,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/plusOneProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="60">
+          <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
