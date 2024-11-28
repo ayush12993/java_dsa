@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b3ef127-80ff-40a0-89c1-1570c3b9dbec" name="Default" comment="This program is to add the plus one in last of array">
+    <list default="true" id="1b3ef127-80ff-40a0-89c1-1570c3b9dbec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/frequency_equalizer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -433,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732796943428</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="This program is to find frequency of string">
+      <created>1732797506371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732797506371</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -511,7 +518,8 @@
     <MESSAGE value="This program is to just practicing stacks in java" />
     <MESSAGE value="This program is to find the length of the last word in the string" />
     <MESSAGE value="This program is to add the plus one in last of array" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to add the plus one in last of array" />
+    <MESSAGE value="This program is to find frequency of string" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to find frequency of string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -974,7 +982,7 @@
     <entry file="file://$PROJECT_DIR$/src/frequency_equalizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
