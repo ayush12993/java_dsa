@@ -594,7 +594,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732885412219</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="This program is to find Divisible and Non-divisible Sums Difference">
+      <created>1732885459414</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732885459414</updated>
+    </task>
+    <task id="LOCAL-00023" summary="This program is to find Number of Good Pairs">
+      <created>1732885509986</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1732885509986</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -680,9 +694,10 @@
     <MESSAGE value="This program is to find Final Value of Variable After Performing Operations" />
     <MESSAGE value="This program is to Defanging an IP Address" />
     <MESSAGE value="This program is to Number of Good Pairs" />
-    <MESSAGE value="This program is to find Divisible and Non-divisible Sums Difference" />
     <MESSAGE value="This program is to  Shuffle the Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to  Shuffle the Array" />
+    <MESSAGE value="This program is to find Divisible and Non-divisible Sums Difference" />
+    <MESSAGE value="This program is to find Number of Good Pairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to find Number of Good Pairs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
