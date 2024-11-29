@@ -104,7 +104,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="defangip.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="defangip.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/defangip.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -116,14 +116,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TeemoAttacking.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TeemoAttacking.java">
+      <file leaf-file-name="goodPairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/goodPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="510">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="17" selection-end-column="28" />
               <folding>
-                <element signature="e#73#74#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/convertTemp.java" />
         <option value="$PROJECT_DIR$/src/valueAfterOp.java" />
         <option value="$PROJECT_DIR$/src/defangip.java" />
+        <option value="$PROJECT_DIR$/src/goodPairs.java" />
       </list>
     </option>
   </component>
@@ -255,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.defangip">
+  <component name="RunManager" selected="Application.goodPairs">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -305,9 +306,9 @@
       <module name="Java" />
       <envs />
     </configuration>
-    <configuration name="frequency_equalizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="goodPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="frequency_equalizer" />
+      <option name="MAIN_CLASS_NAME" value="goodPairs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -408,19 +409,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.frequency_equalizer" />
-      <item index="1" class="java.lang.String" itemvalue="Application.stringScore" />
-      <item index="2" class="java.lang.String" itemvalue="Application.arrayConcat" />
-      <item index="3" class="java.lang.String" itemvalue="Application.valueAfterOp" />
-      <item index="4" class="java.lang.String" itemvalue="Application.defangip" />
+      <item index="0" class="java.lang.String" itemvalue="Application.stringScore" />
+      <item index="1" class="java.lang.String" itemvalue="Application.arrayConcat" />
+      <item index="2" class="java.lang.String" itemvalue="Application.valueAfterOp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.defangip" />
+      <item index="4" class="java.lang.String" itemvalue="Application.goodPairs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.defangip" />
-        <item index="1" class="java.lang.String" itemvalue="Application.valueAfterOp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.arrayConcat" />
-        <item index="3" class="java.lang.String" itemvalue="Application.stringScore" />
-        <item index="4" class="java.lang.String" itemvalue="Application.frequency_equalizer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.goodPairs" />
+        <item index="1" class="java.lang.String" itemvalue="Application.defangip" />
+        <item index="2" class="java.lang.String" itemvalue="Application.valueAfterOp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.arrayConcat" />
+        <item index="4" class="java.lang.String" itemvalue="Application.stringScore" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732879741910</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="This program is to Defanging an IP Address">
+      <created>1732881057807</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732881057807</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -643,7 +651,8 @@
     <MESSAGE value="This program is to Find the  Concatenation of Array" />
     <MESSAGE value="This program is to Convert the Temperature" />
     <MESSAGE value="This program is to find Final Value of Variable After Performing Operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to find Final Value of Variable After Performing Operations" />
+    <MESSAGE value="This program is to Defanging an IP Address" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to Defanging an IP Address" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -652,14 +661,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StackPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NGL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1115,6 +1116,17 @@
           <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding>
             <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/goodPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
           </folding>
         </state>
       </provider>
