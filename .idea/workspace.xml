@@ -77,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrayConcat.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="arrayConcat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrayConcat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -86,6 +86,19 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#131#132#0" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="convertTemp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/convertTemp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="65" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/stringScore.java" />
         <option value="$PROJECT_DIR$/src/maximumAchievable.java" />
         <option value="$PROJECT_DIR$/src/arrayConcat.java" />
+        <option value="$PROJECT_DIR$/src/convertTemp.java" />
       </list>
     </option>
   </component>
@@ -523,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732875644908</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="This program is to Find the  Concatenation of Array">
+      <created>1732878696606</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732878696606</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -604,7 +625,8 @@
     <MESSAGE value="This program is to find frequency of string" />
     <MESSAGE value="This program is to ascii score of a string" />
     <MESSAGE value="This program is to Find the Maximum Achievable Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to Find the Maximum Achievable Number" />
+    <MESSAGE value="This program is to Find the  Concatenation of Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to Find the  Concatenation of Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,14 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NGL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/buySellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1077,6 +1091,17 @@
             <element signature="imports" expanded="true" />
             <element signature="e#131#132#0" expanded="true" />
             <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/convertTemp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="65" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
