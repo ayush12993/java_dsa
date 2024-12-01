@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b3ef127-80ff-40a0-89c1-1570c3b9dbec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Java/.project" afterPath="$PROJECT_DIR$/Java/.project" />
+      <change beforePath="$PROJECT_DIR$/src/richestCustomer.java" afterPath="$PROJECT_DIR$/src/richestCustomer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,11 +118,10 @@
       <file leaf-file-name="richestCustomer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/richestCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
               <folding>
-                <element signature="e#74#75#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
+                <element signature="method#maximumWealth#0;class#richestCustomer#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -610,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732887788520</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="This program is to Find  Richest Customer Wealth">
+      <created>1733049588226</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1733049588226</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -700,7 +706,8 @@
     <MESSAGE value="This program is to find Divisible and Non-divisible Sums Difference" />
     <MESSAGE value="This program is to find Number of Good Pairs" />
     <MESSAGE value="This program is to Find Words Containing Character" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to Find Words Containing Character" />
+    <MESSAGE value="This program is to Find  Richest Customer Wealth" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to Find  Richest Customer Wealth" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1168,11 +1175,10 @@
     <entry file="file://$PROJECT_DIR$/src/TemporaryBlockWebsite.java" />
     <entry file="file://$PROJECT_DIR$/src/richestCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
+            <element signature="method#maximumWealth#0;class#richestCustomer#0" expanded="false" />
           </folding>
         </state>
       </provider>
