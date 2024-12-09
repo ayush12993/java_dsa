@@ -14,120 +14,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="valueAfterOp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/valueAfterOp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="16" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="defangip.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defangip.java">
+      <file leaf-file-name="checkIntComp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/checkIntComp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binaryDate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binaryDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numOfConsString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/numOfConsString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addTwoIntegers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/addTwoIntegers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-              <folding>
-                <element signature="e#73#74#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="evenMultiple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/evenMultiple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="permuationStr.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/permuationStr.java">
+      <file leaf-file-name="checkCharC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/checkCharC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="greatCand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/greatCand.java">
+      <file leaf-file-name="goalPars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/goalPars.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="41" />
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#interpret#0;class#goalPars#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="largestLocalValues.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/largestLocalValues.java">
+      <file leaf-file-name="minBitFlips.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/minBitFlips.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <element signature="e#70#71#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minNumMove.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/minNumMove.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metTarget.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/metTarget.java">
+      <file leaf-file-name="pairSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pairSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="81" lean-forward="false" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+            <state relative-caret-position="300">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smallerCurr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smallerCurr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkStringAcronym.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/checkStringAcronym.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="19" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/OpenLogic/jdk-8.0.432.06-hotspot/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3180">
+              <caret line="139" column="25" lean-forward="false" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -190,6 +183,19 @@
         <option value="$PROJECT_DIR$/src/greatCand.java" />
         <option value="$PROJECT_DIR$/src/largestLocalValues.java" />
         <option value="$PROJECT_DIR$/src/metTarget.java" />
+        <option value="$PROJECT_DIR$/src/implementOOps.java" />
+        <option value="$PROJECT_DIR$/src/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/checkArrays.java" />
+        <option value="$PROJECT_DIR$/src/checkIntComp.java" />
+        <option value="$PROJECT_DIR$/src/checkCharC.java" />
+        <option value="$PROJECT_DIR$/src/goalPars.java" />
+        <option value="$PROJECT_DIR$/src/minBitFlips.java" />
+        <option value="$PROJECT_DIR$/src/minNumMove.java" />
+        <option value="$PROJECT_DIR$/src/mergeNodesInZeroes.java" />
+        <option value="$PROJECT_DIR$/src/Stack.java" />
+        <option value="$PROJECT_DIR$/src/pairSum.java" />
+        <option value="$PROJECT_DIR$/src/smallerCurr.java" />
+        <option value="$PROJECT_DIR$/src/checkStringAcronym.java" />
       </list>
     </option>
   </component>
@@ -220,9 +226,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,7 +246,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.largestLocalValues">
+  <component name="RunManager" selected="Application.checkStringAcronym">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -285,9 +291,9 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="evenMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="checkStringAcronym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="evenMultiple" />
+      <option name="MAIN_CLASS_NAME" value="checkStringAcronym" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -299,9 +305,9 @@
       <module name="Java" />
       <envs />
     </configuration>
-    <configuration name="greatCand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="minBitFlips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="greatCand" />
+      <option name="MAIN_CLASS_NAME" value="minBitFlips" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -313,9 +319,9 @@
       <module name="Java" />
       <envs />
     </configuration>
-    <configuration name="largestLocalValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="minNumMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="largestLocalValues" />
+      <option name="MAIN_CLASS_NAME" value="minNumMove" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -327,9 +333,9 @@
       <module name="Java" />
       <envs />
     </configuration>
-    <configuration name="numOfConsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="pairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="numOfConsString" />
+      <option name="MAIN_CLASS_NAME" value="pairSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -341,9 +347,9 @@
       <module name="Java" />
       <envs />
     </configuration>
-    <configuration name="permuationStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="smallerCurr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="permuationStr" />
+      <option name="MAIN_CLASS_NAME" value="smallerCurr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -416,19 +422,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.numOfConsString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.evenMultiple" />
-      <item index="2" class="java.lang.String" itemvalue="Application.permuationStr" />
-      <item index="3" class="java.lang.String" itemvalue="Application.greatCand" />
-      <item index="4" class="java.lang.String" itemvalue="Application.largestLocalValues" />
+      <item index="0" class="java.lang.String" itemvalue="Application.minBitFlips" />
+      <item index="1" class="java.lang.String" itemvalue="Application.minNumMove" />
+      <item index="2" class="java.lang.String" itemvalue="Application.pairSum" />
+      <item index="3" class="java.lang.String" itemvalue="Application.smallerCurr" />
+      <item index="4" class="java.lang.String" itemvalue="Application.checkStringAcronym" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.largestLocalValues" />
-        <item index="1" class="java.lang.String" itemvalue="Application.greatCand" />
-        <item index="2" class="java.lang.String" itemvalue="Application.permuationStr" />
-        <item index="3" class="java.lang.String" itemvalue="Application.evenMultiple" />
-        <item index="4" class="java.lang.String" itemvalue="Application.numOfConsString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.checkStringAcronym" />
+        <item index="1" class="java.lang.String" itemvalue="Application.smallerCurr" />
+        <item index="2" class="java.lang.String" itemvalue="Application.pairSum" />
+        <item index="3" class="java.lang.String" itemvalue="Application.minNumMove" />
+        <item index="4" class="java.lang.String" itemvalue="Application.minBitFlips" />
       </list>
     </recent_temporary>
   </component>
@@ -672,7 +678,84 @@
       <option name="project" value="LOCAL" />
       <updated>1733216460645</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="This program is to find  Number of Employees Who Met the Target">
+      <created>1733233909999</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1733233909999</updated>
+    </task>
+    <task id="LOCAL-00034" summary="This program is to learn basic oops">
+      <created>1733403120589</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1733403120589</updated>
+    </task>
+    <task id="LOCAL-00035" summary="This program is to learn basic oops">
+      <created>1733403139223</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1733403139223</updated>
+    </task>
+    <task id="LOCAL-00036" summary="This program is to learn basic array">
+      <created>1733403409634</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733403409634</updated>
+    </task>
+    <task id="LOCAL-00037" summary="This program is to learn interface as it is by default final">
+      <created>1733403575982</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733403575982</updated>
+    </task>
+    <task id="LOCAL-00038" summary="This program is to learn char as char 65 is converted into A">
+      <created>1733403692163</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1733403692163</updated>
+    </task>
+    <task id="LOCAL-00039" summary="This program is to do Goal Parser Interpretation">
+      <created>1733635630527</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1733635630528</updated>
+    </task>
+    <task id="LOCAL-00040" summary="This program is to do Goal Parser Interpretation with 0ms implementation">
+      <created>1733661068065</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1733661068065</updated>
+    </task>
+    <task id="LOCAL-00041" summary="This program is to find Minimum Number of Moves to Seat Everyone">
+      <created>1733665356840</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1733665356840</updated>
+    </task>
+    <task id="LOCAL-00042" summary="This program is to implement stack">
+      <created>1733726438553</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1733726438553</updated>
+    </task>
+    <task id="LOCAL-00043" summary="This program is to Count Pairs Whose Sum is Less than Target">
+      <created>1733728264567</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1733728264567</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -690,17 +773,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -744,16 +828,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding buy sell stock program of array concept" />
-    <MESSAGE value="checking if string is palindrome or not" />
-    <MESSAGE value="This program is to buy at low price and sell at high price stocks" />
-    <MESSAGE value="This program is to just practicing stacks in java" />
-    <MESSAGE value="This program is to find the length of the last word in the string" />
-    <MESSAGE value="This program is to add the plus one in last of array" />
-    <MESSAGE value="This program is to find frequency of string" />
-    <MESSAGE value="This program is to ascii score of a string" />
-    <MESSAGE value="This program is to Find the Maximum Achievable Number" />
-    <MESSAGE value="This program is to Find the  Concatenation of Array" />
     <MESSAGE value="This program is to Convert the Temperature" />
     <MESSAGE value="This program is to find Final Value of Variable After Performing Operations" />
     <MESSAGE value="This program is to Defanging an IP Address" />
@@ -769,7 +843,17 @@
     <MESSAGE value="This program is to find Smallest Even Multiple" />
     <MESSAGE value="This program is to find  Permutation Difference between Two Strings" />
     <MESSAGE value="This program is to find  Kids With the Greatest Number of Candies" />
-    <option name="LAST_COMMIT_MESSAGE" value="This program is to find  Kids With the Greatest Number of Candies" />
+    <MESSAGE value="This program is to find  Number of Employees Who Met the Target" />
+    <MESSAGE value="This program is to learn basic oops" />
+    <MESSAGE value="This program is to learn basic array" />
+    <MESSAGE value="This program is to learn interface as it is by default final" />
+    <MESSAGE value="This program is to learn char as char 65 is converted into A" />
+    <MESSAGE value="This program is to do Goal Parser Interpretation" />
+    <MESSAGE value="This program is to do Goal Parser Interpretation with 0ms implementation" />
+    <MESSAGE value="This program is to find Minimum Number of Moves to Seat Everyone" />
+    <MESSAGE value="This program is to implement stack" />
+    <MESSAGE value="This program is to Count Pairs Whose Sum is Less than Target" />
+    <option name="LAST_COMMIT_MESSAGE" value="This program is to Count Pairs Whose Sum is Less than Target" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -778,142 +862,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/buySellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#98#99#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TeemoAttacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#73#74#0" expanded="false" />
-            <element signature="e#147#148#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NGL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/buySellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#98#99#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TeemoAttacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#73#74#0" expanded="false" />
-            <element signature="e#147#148#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NGL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/buySellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#98#99#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TeemoAttacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#73#74#0" expanded="false" />
-            <element signature="e#147#148#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NGL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/buySellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#98#99#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TeemoAttacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#73#74#0" expanded="false" />
-            <element signature="e#147#148#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NGL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1090,7 +1038,7 @@
         <state relative-caret-position="420">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1144,9 +1092,9 @@
         <state relative-caret-position="270">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1164,7 +1112,7 @@
         <state relative-caret-position="90">
           <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding>
-            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1174,9 +1122,9 @@
         <state relative-caret-position="390">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#118#119#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1186,7 +1134,7 @@
         <state relative-caret-position="510">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1196,10 +1144,10 @@
         <state relative-caret-position="30">
           <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#73#74#0" expanded="false" />
+            <element signature="e#117#118#0" expanded="false" />
+            <element signature="e#165#166#0" expanded="false" />
+            <element signature="e#197#198#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1217,8 +1165,8 @@
         <state relative-caret-position="210">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="false" />
+            <element signature="e#177#178#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1228,8 +1176,8 @@
         <state relative-caret-position="270">
           <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="41" />
           <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="false" />
+            <element signature="e#164#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1244,9 +1192,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/metTarget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="81" lean-forward="false" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+        <state relative-caret-position="330">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementOOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkIntComp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkCharC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/goalPars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#interpret#0;class#goalPars#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/minBitFlips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/minNumMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mergeNodesInZeroes.java" />
+    <entry file="jar://C:/Program Files/OpenLogic/jdk-8.0.432.06-hotspot/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="139" column="25" lean-forward="false" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pairSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smallerCurr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkStringAcronym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
